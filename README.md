@@ -1,7 +1,35 @@
 <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="1000" height="400" align="center">
+ 
+ ```py
+ ABOUT ME = " I'm passionate with technology and I love to play with technologies"
+ fav skill = " I don't to restrict myself with perticular skill and I'm passionate to learn all technology forever as much as I can"
+ ```
+ ```diff
+CHANGES
+- ambition = To become a cloud devops engineer   
++ ambition = To become a person mastered all technology and handle any IT related jobs
+```
+```diff
+MY GOALS
+learned :
++ DEVOPS
++ CLOUD COMPUTING
++ CYBER SECURITY
+
+To be learn :
+- LINUX ADMISTRATOR
+- WEB DESINER
+- ROBOTIC PROCESS AUTOMATION
+- AI,ML,DS
+- DATABASE ADMIN
+- UI/UX
+- DIGITAL MARKETING
+```
+
+
 <b><q>"Dream is not the thing you see in sleep but is that thing that doesn't let you sleep."</q></b>  <p><i>"-APJ Apdul Kalam sir"</p></i>
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm in search for my first flight(my company) to fly into the ☁︎⋅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaac58222&label=Profile%20views&color=0e75b6&style=flat" alt="isaac58222" /> </p>
 
@@ -20,3 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaac58222&show_icons=true&locale=en" alt="isaac58222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaac58222&" alt="isaac58222" /></p>
+
+
+
+   
