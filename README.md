@@ -18,6 +18,7 @@ learned :
 
 To be learn :
 - LINUX ADMISTRATOR
+- EHICAL HACKER 👨🏻‍💻
 - WEB DESINER
 - ROBOTIC PROCESS AUTOMATION
 - AI,ML,DS
@@ -25,7 +26,6 @@ To be learn :
 - UI/UX
 - DIGITAL MARKETING
 ```
-
 
 <b><q>"Dream is not the thing you see in sleep but is that thing that doesn't let you sleep."</q></b>  <p><i>"-APJ Apdul Kalam sir"</p></i>
 <h1 align="center">Hi 👋, I'm Isaac</h1>
