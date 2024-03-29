@@ -29,45 +29,6 @@ To be learn :
 ```
 **Some questions (for answers click details)**
 
->WHY DO YOU CHOOSE (IT) AFTER FINISHING BIOTECHNOLY?
-<details> 
-
-     -I love technology but my brother told if you take bio i will be ensure job every thing went well untill finishing college 
-     -When it came to job after my brother arranged for job, I felt i can do better in IT field as i had love it 
-     -It was soooo hard to convince him and after many stuggles I had joined course 
-     -The reason behind my passion of becoming the IT master is the stuggles I came to get into IT and want to use the opportunity to show what im capable to one who underestimated me
-
-</details>
-
- >WHY ARE YOU WIILING TO LEARNING LOT INSTEAD OF FOCUSING ONE ONE?
-<details>
-
-       I'm learning to travel all over the ocean(IT) learning swimming(learning Technologies) only in swimming pool(only one tech) will not ensure that i can swim in ocean so learning all to explore the every part ocean
-
-</details>
-
->DO YOU HAVE ANY WORK EXPERICANCE ?
-<details>
- 
-  I'm working from my age 10 (13 years of part time job experiance) and I had came across manyyy people from many work and I had learned lot of experiance from those people I came across
-
-</details>
-
->TELL ME SOME WORK YOU CAME ACROSS
-<details>
- 
-         In 13 years I had learned including handleing customer
-         1)engineering work Learned: making iron gate/window from screach to fixing
-         2)20 liter can delivary process Learned: buying the can to door devivary
-         3)tanker lorry water supply Learned: full process taking water to delivary including handleing customer
-         4)worked in election booth Learned:process before and after election
-         5)cattering supply to IT companies Learned:handle time when hotel load food late
-         6)led banner fitting process Learned: buying , arranging and setting in places like Ekam temple,combatore smart city 
-          area etc
-         7)cinema junior artist- reality shows(sun tv,vijay tv,zee tamil),movies (mersal,kala,thana seantha kuttom,gorila,kagini kanth etc, serial (sun tv, vijay tv)
-
-</details>
- 
 >HOW DID YOU LEARN NEW THINGS RELATED TO (IT) AS YOUR GOAL
 <details>
  
