@@ -39,7 +39,7 @@ To be learn :
 
 <b><q>"Dream is not the thing you see in sleep but is that thing that doesn't let you sleep."</q></b>  <p><i>"-APJ Apdul Kalam sir"</p></i>
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">I'm in search for my first flight(my company) to fly into the ☁︎⋅</h3>
+<h3 align="center">I'm certified in gcpX5,azureX6,awsX1 and working as a cloud engineer at cloudside technologies⋅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaac58222&label=Profile%20views&color=0e75b6&style=flat" alt="isaac58222" /> </p>
 
